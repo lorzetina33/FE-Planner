@@ -1,0 +1,128 @@
+[
+    {
+        "character": "alear",
+        "emblem": "Marth",
+        "engrave": "Leif",
+        "weapon": "Silver art",
+        "class": "Divine Dragon",
+        "ability1": "LB+",
+        "ability2": "Speed +5"
+    },
+    {
+        "character": "chloe",
+        "emblem": "Eirika",
+        "engrave": "Marth",
+        "weapon": "Brave lance",
+        "class": "Paladin",
+        "ability1": "LP5",
+        "ability2": "Starsphere"
+    },
+    {
+        "character": "jean",
+        "emblem": "Ike",
+        "engrave": "Corrin",
+        "weapon": "Killer axe",
+        "class": "Wyvern",
+        "ability1": "AP5",
+        "ability2": "Starsphere"
+    },
+    {
+        "character": "celine",
+        "emblem": "Micaiah",
+        "engrave": "Veronica",
+        "weapon": "Bolganone",
+        "class": "Vidame",
+        "ability1": "DP+",
+        "ability2": "Canter"
+    },
+    {
+        "character": "nel",
+        "emblem": "Byleth",
+        "engrave": "Select Engrave",
+        "weapon": "Radiant bow",
+        "class": "Sniper",
+        "ability1": "Canter",
+        "ability2": "Mag+"
+    },
+    {
+        "character": "rafal",
+        "emblem": "Lyn",
+        "engrave": "Lucina",
+        "weapon": "Noatun",
+        "class": "Warrior",
+        "ability1": "AP5",
+        "ability2": "Hit +30"
+    },
+    {
+        "character": "pandreo",
+        "emblem": "Chrom",
+        "engrave": "Sigurd",
+        "weapon": "Levin sword",
+        "class": "Griffin",
+        "ability1": "Reposition",
+        "ability2": "Staff mastery"
+    },
+    {
+        "character": "timerra",
+        "emblem": "Sigurd",
+        "engrave": "Edelgard",
+        "weapon": "Fensalir/SLG",
+        "class": "Picket",
+        "ability1": "LP5",
+        "ability2": "Starsphere"
+    },
+    {
+        "character": "pannette",
+        "emblem": "Leif",
+        "engrave": "Eirika",
+        "weapon": "Killer axe/bow",
+        "class": "Warrior",
+        "ability1": "Wrath",
+        "ability2": "Hit +30"
+    },
+    {
+        "character": "ivy",
+        "emblem": "Celica",
+        "engrave": "Alear",
+        "weapon": "Nova",
+        "class": "Lindwurm",
+        "ability1": "Speedtaker",
+        "ability2": "Starsphere"
+    },
+    {
+        "character": "kagetsu",
+        "emblem": "Roy",
+        "engrave": "Chrom",
+        "weapon": "Silver Sword",
+        "class": "Wyvern",
+        "ability1": "Speed +5",
+        "ability2": "SP5"
+    },
+    {
+        "character": "seadall",
+        "emblem": "Lucina",
+        "engrave": "Micaiah",
+        "weapon": "Shielding art",
+        "class": "Dancer",
+        "ability1": "Canter",
+        "ability2": "Mentorship"
+    },
+    {
+        "character": "mauvier",
+        "emblem": "Edelgard",
+        "engrave": "Byleth",
+        "weapon": "Radiant bow",
+        "class": "Bow knight",
+        "ability1": "Hit +30",
+        "ability2": "Canter"
+    },
+    {
+        "character": "veyle",
+        "emblem": "Veronica",
+        "engrave": "Tiki",
+        "weapon": "Thoron",
+        "class": "Fell child",
+        "ability1": "Canter",
+        "ability2": "Mag+"
+    }
+]
